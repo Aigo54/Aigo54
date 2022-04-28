@@ -50,8 +50,6 @@
     <a href="https://www.mongodb.com/fr-fr" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  style="width:70px;height:70px;"/>
     </a>
-
-    <!-- <a href="https://twig.symfony.com/" target="_blank"> </a> -->
     
 </p>
 
