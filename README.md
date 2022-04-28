@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Node.js, React.js, Solidity**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
