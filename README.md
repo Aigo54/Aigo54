@@ -1,6 +1,6 @@
 <a href="https://kodey.fr/"><img width="100%" height="auto" src="./img/banniere.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sam</h1>
+<h1 align="center">Hi, I'm Sam</h1>
 <h3 align="center">I'm a Back-End Developer from France.</h3>
 
 ## 🙋‍♂️ About Me
