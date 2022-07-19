@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working on **Freelance**
 
-- 🌱 I’m currently learning **Node.js, React.js, Solidity**
+- 🌱 I’m currently learning **Swift, Swift UI**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m looking to an working student contract!
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://samuel-ja.com)**
 
@@ -50,9 +50,7 @@
     <a href="https://www.mongodb.com/fr-fr" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"  style="width:70px;height:70px;"/>
     </a>
-    <a href="https://docs.soliditylang.org/en/v0.8.13/" target="_blank">
-         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"  style="width:70px;height:70px;"/>
-    </a>
+    
     
 </p>
 
